@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: #111111;
+}
+h1 {
+  text-align: center;
+  color: #222222;
+}
+canvas {
+  background-color: #222222;
+}

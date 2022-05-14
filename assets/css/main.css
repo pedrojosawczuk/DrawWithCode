@@ -7,6 +7,7 @@ body {
   text-align: center;
   background-color: var(--primary);
 }
+
 h1 {
   text-align: center;
   color: var(--secondary);

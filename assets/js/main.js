@@ -101,10 +101,6 @@ for (let i = 0; i < 5; i++) {
 // Conditions //
 
 
-
-
-
-
 let year = 2042;
 let nextyear = year + 1;
 

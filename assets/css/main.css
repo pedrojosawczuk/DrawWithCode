@@ -1,11 +1,21 @@
+:root {
+  --primary: #111;
+  --secondary: #222;
+}
+
 body {
   text-align: center;
-  background-color: #111111;
+  background-color: var(--primary);
 }
 h1 {
   text-align: center;
-  color: #222222;
+  color: var(--secondary);
 }
+
+.color {
+  color: var(--primary);
+}
+
 canvas {
-  background-color: #222222;
+  background-color: var(--secondary);
 }
